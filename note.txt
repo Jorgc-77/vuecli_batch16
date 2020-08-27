@@ -1,0 +1,41 @@
+Component
+---------
+- template (HTML)
+- script (JS)
+- style (CSS)
+
+Entry Point
+-----------
+  - main.js
+    - create new instance (object)
+    - render APP.vue (parent component)
+  - App.vue
+    - components/HelloWorld.vue (child)
+    - props (pass data parent into child)
+
+Working API
+-----------
+  - axios (get / post)
+
+Working with UI
+---------------
+  - Bootstrap
+
+Step-by-Step
+------------
+  - git clone
+  - npm install (getting data from packages)
+  - npm run serve
+
+  - Testing.vue
+  - Homework.vue
+    - using own API
+    - router
+
+
+
+
+
+
+
+
